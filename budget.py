@@ -1,3 +1,7 @@
+#Hi there, if you have any feedback on the code,
+#feel free to contact me on linkedin
+#https://www.linkedin.com/in/tyson-cheah
+
 class Category:
   def __init__(self, name):
     self.name = name
